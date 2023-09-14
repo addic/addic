@@ -6,10 +6,7 @@ Personality traits: insatiable curiosity, healthy perfectionism, enjoyment of te
 - Senior Full-Stack Engineer @ [Paylike](https://paylike.io) ([Lunar](https://www.lunar.app))
 - Mentor @ [Enterprise Lithuania](https://mentoriai.inovacijuagentura.lt/mentorius/adomas-dicius)
 - Co-Founder & CTO @ [Smackway](https://www.smackway.com)
-
 - 🇱🇹 Lithuanian
-- 🇬🇪 Currently based in Tbilisi, Georgia
-- 🏋️‍♂️ Crossfit
 
 ### Most used Tech & Languages
 
